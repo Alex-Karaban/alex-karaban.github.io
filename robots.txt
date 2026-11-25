@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://incident-response.ru/sitemap.xml
